@@ -4,3 +4,6 @@
 [submodule "HackBrea-promo-material"]
 	path = HackBrea-promo-material
 	url = https://github.com/dudeofawesome/HackBrea-promo-material.git
+[submodule "HackBrea-event-planning"]
+	path = HackBrea-event-planning
+	url = https://github.com/dudeofawesome/HackBrea-event-planning.git

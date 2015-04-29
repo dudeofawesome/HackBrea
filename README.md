@@ -10,12 +10,12 @@ We wanted to make the planning of HackBrea an open source adventure, that anyone
 We also wanted to make all of our planning available to future hackathon, in hopes that they might be able to build off of what we created, and make something even better!
 
 ### This is really cool! How can I help?
-We are in need of volunteers to mentor students and/or assist in crowd control. If you are interested in helping us out, you can sign up at http://hackbrea.com/#volunteer.
+We are in need of volunteers to mentor students and/or assist in crowd control. If you are interested in helping us out, you can sign up at http://hackbrea.com/?volunteer.
 
 Along with all of that, if you want to help us plan the event, feel free to make changes to our plans, or add new parts entirely! You can do this by cloning this repo (or any of the sub-repos), making your changes, and then creating a pull request against our repo.
 
 ### Are you looking for sponsors?
-Absolutely! If you're in a position to sponsor our hackathon, we would love to hear from you! You can get in contact with us via our website: http://hackbrea.com/#sponsor.
+Absolutely! If you're in a position to sponsor our hackathon, we would love to hear from you! You can get in contact with us via our website: http://hackbrea.com/?sponsor.
 
 ## Specific help
 ### A new logo
