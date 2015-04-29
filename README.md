@@ -20,3 +20,5 @@ Absolutely! If you're in a position to sponsor our hackathon, we would love to h
 ## Specific help
 ### A new logo
 Neither Josh or Louis are artists, and as such, the current logo is really just a placeholder. A new logo would be a great help!
+### Sponsorship contacts
+We believe that HackBrea is a great venue for sponsorship because of the range of experience that will be in attendance. Sponsors will have the opportunity to teach hackers who are just starting to learn about programming, using their products as a learning platform, potentially making customers for life.
